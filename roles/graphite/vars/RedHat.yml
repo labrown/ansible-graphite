@@ -8,5 +8,5 @@ graphite_pkgs:
   - python-sqlite2
   - pycairo
   - libfontenc
-  #- bitmap-fonts
-  #- bitmap 
+  - bitmap-fonts
+  - bitmap 
